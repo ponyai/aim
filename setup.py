@@ -19,7 +19,7 @@ with open(version_file) as vf:
 here = os.path.abspath(os.path.dirname(__file__))
 
 # Package meta-data.
-NAME = 'aim'
+NAME = 'pony_aim'
 DESCRIPTION = 'A super-easy way to record, search and compare AI experiments.'
 VERSION = __version__
 REQUIRES_PYTHON = '>=3.7.0'
